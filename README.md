@@ -1,4 +1,4 @@
-# _Repository for E322_
+# _Repository for CPE322_
 ## Engineering Design VI
 1. list item 1
 2. list item 2
