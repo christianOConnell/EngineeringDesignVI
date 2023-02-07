@@ -1,10 +1,10 @@
-#Lab1 GHDL and GTKWave
+# Lab1 GHDL and GTKWave
 
-_Installation Note_ 
+_Installation Note_  
 File paths to the /bin/ folders for each of these programs need to be added to your 
 path environment variable for the commands in the screenshots below to work properly.  
 
 _Running Examples_  
-![Half Adder Example](half_adder.jpg)
+![Half Adder Example](half_adder.JPG)
 
-![D Flip Flop Example](DFlipFlop.jpg)
+![D Flip Flop Example](DFlipFlop.JPG)
