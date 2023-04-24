@@ -2,6 +2,9 @@
 
 Installing Node.js
 
+![nodejs install](nodejsInstall.PNG)
+
+
 Running hello-world.js
 
 ![hello-world](helloWorld.PNG)
